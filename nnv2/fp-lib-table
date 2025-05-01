@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KICAD_USER_FOOTPRINTS}/supermini-nrf52840-kicad/Library.pretty")(options "")(descr ""))
+)
